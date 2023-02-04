@@ -19,4 +19,4 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./print1.png "Optional title") ![Alt text](./print2.png "Optional title")
