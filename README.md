@@ -1,5 +1,5 @@
 # Phishing para captura de senhas do Facebook
-## ❌❌Repositório feito única e exclusivamente para fins de estudos
+## ❌❌Repositório feito únic e exclusivamente para fins de estudos
 
 ### Ferramentas
 
