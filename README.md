@@ -20,5 +20,3 @@
 ### Resutados
 
 ![Alt text](./passwd.png "Optional title")
-
-- Resultado obtido: ![Alt text](./Captura de tela 2023-02-04 110249.png)
